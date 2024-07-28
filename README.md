@@ -1,4 +1,4 @@
-# 🌟 Microphone Arrays and Spatial Processing 🌟
+#  Microphone Arrays and Spatial Processing 
 
 ![Microphone Array](./beamformer.png)
 
