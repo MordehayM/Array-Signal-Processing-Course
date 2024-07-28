@@ -2,7 +2,7 @@
 
 ![Microphone Array](./beamformer.png)
 
-## Instructor: **Prof. Sharnog Gannot**
+## Instructor: **Prof. Sharon Gannot**
 
 ### Course Topics
 
