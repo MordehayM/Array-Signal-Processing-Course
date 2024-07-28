@@ -1,5 +1,5 @@
 # Microphone Arrays and Spatial Processing
-![Microphone Array](./beamformer.jpg)
+![Microphone Array](./beamformer.png)
 ## Instructor: Prof. Sharnog Gannot
 
 ### Course Topics
